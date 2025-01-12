@@ -1,0 +1,71 @@
+.hero{
+    background-color: #FBF5E5;
+    height: 100vh;
+}
+
+
+.text{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #A35C7A;
+}
+
+.text h1{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #A35C7A;
+}
+
+
+.middle{
+    background-color: #394846;
+    color: #FBF5E5;
+}
+
+.hero > div>div>div> img{
+    border-radius: 50%;
+    border: 5px solid #A35C7A;
+}
+
+.about-me{
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #FBF5E5;
+}
+
+.card h3{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #A35C7A;
+} 
+
+.middle2{
+    background-color: #394846;
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #FBF5E5;
+}
+
+.footer{
+    background-color: #FBF5E5;
+    font-family: "Roboto Mono", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #394846;
+}
+
+.middle2 img{
+    margin: 20px;
+    border-radius: 20px;
+}
